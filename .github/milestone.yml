@@ -1,2 +1,0 @@
-- name: Create Milestone
-  uses: WyriHaximus/github-action-create-milestone@0.1.0
